@@ -19,7 +19,8 @@
 * It contains a 4-way traffic intersection with traffic signals controlling the flow of traffic in each direction. 
 * Each signal has a timer on top of it which shows the time remaining for the signal to switch from green to yellow, yellow to red, or red to green. 
 * Vehicles such as cars, bikes, buses, and trucks are generated, and their movement is controlled according to the signals and the vehicles around them. 
-* This simulation can be further used for data analysis or to visualize AI or ML applications. 
+* This simulation can be further used for data analysis or to visualize AI or ML applications.
+* Inspired and recreated based on the project by Mihir Gandhi, MIT 
 
 Find a step-by-step guide to build this simulation [here](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a).
 
