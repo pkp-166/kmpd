@@ -56,10 +56,6 @@ The video below shows the final output of the simulation.
       $ python simulation.py
 ```
 
-------------------------------------------
-### Author
-
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
 ------------------------------------------
 ### License
